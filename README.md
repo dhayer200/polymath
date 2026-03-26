@@ -25,7 +25,8 @@ A Typst package for the Renaissance man. Write like Montaigne, typeset math like
 ]
 ```
 
-See [`example.typ`](example.typ) for a full working document.
+See [`example.typ`](example.typ) for a full working document using a local
+`#import "lib.typ": *` for repository development.
 
 ## Functions
 
